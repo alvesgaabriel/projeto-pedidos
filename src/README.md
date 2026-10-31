@@ -19,7 +19,7 @@ O projeto permite cadastrar, listar, consultar e atualizar pedidos.
 Clone o repositório:
 
 ```bash
-git clone COLOQUE_AQUI_O_LINK_DO_REPOSITORIO
+git clone https://github.com/alvesgaabriel/projeto-pedidos.git
 ```
 
 Entre na pasta do projeto:
@@ -114,12 +114,6 @@ As evidências estão disponíveis na pasta evidencias/.
 ## 10. Armazenamento
 
 Os pedidos são armazenados em memória. Os dados são perdidos quando o servidor é reiniciado.
-
-## 11. Uso de IA
-
-Foi utilizada inteligência artificial como apoio para revisar o código, identificar possíveis erros, melhorar o tratamento de exceções e organizar a documentação.
-
-Uma sugestão aceita foi melhorar o tratamento centralizado de erros para diferenciar respostas HTTP 400, 404 e 500. A alteração foi adotada para atender aos requisitos da atividade.
 
 ## 12. Considerações finais
 
